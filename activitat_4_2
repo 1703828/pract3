@@ -4,7 +4,6 @@ int main(){
         char res;
 
         res=x*y;
-        printf(%c,res)
         return 0;
 
 }
