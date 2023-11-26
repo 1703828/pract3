@@ -1,0 +1,10 @@
+int main(){
+        int x=3;
+        char y='a';
+        int res;
+
+        res=x*y;
+        printf(%c,res)
+        return 0;
+
+}
